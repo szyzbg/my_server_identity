@@ -1,9 +1,1 @@
-09:54:42 [GameplayData] LogGameRoundStart called with bEnableGameplayData false
-10:00:42 EventCache either took too long to flush (1.685 ms) or had a very large payload (4.489 KB, 7 events). Listing events in the payload for investigation:
-10:00:42     AntiCheatServer.ActiveSession,497
-10:00:42     EOSSDK.Heartbeat,742
-10:00:42     EOSSDK.HTTP.Complete,662
-10:00:42     EOSSDK.HTTP.Complete,662
-10:00:42     EOSSDK.HTTP.Complete,678
-10:00:42     UsageMetric,673
-10:00:42     EOSSDK.HTTP.Complete,670
+00:33:14 [GameplayData] LogGameRoundStart called with bEnableGameplayData false
